@@ -1,5 +1,6 @@
 <linker>
 <assembly fullname="Assembly-CSharp">
+<type fullname="ar" preserve="all"/>
 <type fullname="AnimationBehaviors" preserve="all"/>
 <type fullname="CharacterBehaviors" preserve="all"/>
 <type fullname="FisticuffsController" preserve="all"/>

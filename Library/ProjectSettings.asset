@@ -666,11 +666,12 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    UNet: 1
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
   cloudProjectId: 6adb4afb-ed63-4671-8785-e93a349122be
-  projectName: 
+  projectName: AR Cards
   organizationId: craymelshooter
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
